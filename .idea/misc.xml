@@ -1,5 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/drawable/ic_arrow.xml" value="0.107" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/drawable/ic_trash.xml" value="0.107" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/activity_card.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/activity_date.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/fragment_card.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/fragment_date.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/fragment_details.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/fragment_my_activity.xml" value="0.16" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/fragment_signup.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/fragment_users_activity.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/layout/fragment_welcome.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="..\:/AndroidProjects/FitnessApp2/app/src/main/res/menu/toolbar_menu.xml" value="0.1" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.124" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/drawable-v24/ic_person.xml" value="0.1" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/drawable-v24/ic_sports.xml" value="0.1" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/layout/fragment_activity.xml" value="0.1" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/layout/fragment_signin.xml" value="0.1" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/layout/fragment_signup.xml" value="0.1" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/layout/fragment_track.xml" value="0.11302083333333333" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/layout/fragment_welcome.xml" value="0.16" />
+        <entry key="..\:/FitnessApp2/app/src/main/res/menu/bottom_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
