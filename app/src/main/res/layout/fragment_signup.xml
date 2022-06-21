@@ -139,7 +139,6 @@
                 app:layout_constraintEnd_toEndOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@+id/sexView">
-
                 <RadioButton
                     android:id="@+id/sexRadioMan"
                     android:layout_width="wrap_content"
@@ -147,14 +146,12 @@
                     android:minHeight="0dp"
                     android:checked="true"
                     android:text="@string/radiobutton_man" />
-
                 <RadioButton
                     android:id="@+id/sexRadioWoman"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:minHeight="0dp"
                     android:text="@string/radiobutton_woman" />
-
                 <RadioButton
                     android:id="@+id/sexRadioElse"
                     android:layout_width="wrap_content"
