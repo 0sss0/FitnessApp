@@ -23,4 +23,22 @@
     <string name="time_to_active">Время потренить</string>
     <string name="sub_time_to_active">Нажимай на кнопку ниже и начинаем трекать активность</string>
     <string name="description">bicycle</string>
+    <string name="delete">Удалить</string>
+    <string name="share">Поделиться</string>
+    <string name="_14_32">14.32 км</string>
+    <string name="_2_46">2 часа 46 минут</string>
+    <string name="serfing">Серфинг</string>
+    <string name="_14_ago">14 часов назад</string>
+    <string name="tomorrow">Вчера</string>
+    <string name="save">Сохранить</string>
+    <string name="username">\@van_darkholme</string>
+    <string name="_1_42">1 час 42 мин</string>
+    <string name="start">Старт</string>
+    <string name="_14_49">14:49</string>
+    <string name="finish">Финиш</string>
+    <string name="_16_31">16:31</string>
+    <string name="comment">Комментарий</string>
+    <string name="add_button">Add button</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="exit">Выйти</string>
 </resources>

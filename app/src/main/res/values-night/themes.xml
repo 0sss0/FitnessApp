@@ -13,8 +13,15 @@
         <item name="android:statusBarColor" tools:targetApi="lollipop">?attr/colorPrimaryVariant</item>
         <item name="android:navigationBarColor" tools:targetApi="lollipop">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
-        <item name="android:textColor">@color/white</item>
         <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+        <item name="actionMenuTextAppearance">@style/ToolbarMenuItem</item>
         <item name="colorControlNormal">@color/purple_500</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+    <style name="ToolbarMenuItem" parent="ThemeOverlay.MaterialComponents.Toolbar.Primary">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/purple_500</item>
     </style>
 </resources>
